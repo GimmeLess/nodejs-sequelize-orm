@@ -1,1 +1,1 @@
-* Projeto criado devido a suge
+* Projeto criado devido a sugestão de
