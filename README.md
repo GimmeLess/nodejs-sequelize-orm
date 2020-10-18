@@ -1,1 +1,1 @@
-* Projeto criado devido a sugestão de utilização
+* Projeto criado devido a sugestão de utilização da te
