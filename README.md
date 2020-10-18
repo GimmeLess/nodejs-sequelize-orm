@@ -1,1 +1,1 @@
-* Projeto criado devido a sugestão de
+* Projeto criado devido a sugestão de utilização
