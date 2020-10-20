@@ -1,1 +1,1 @@
-* Projeto criado devido a sugestão de utilização da tecnologia blockchain 
+* Projeto criado devido a sugestão de utilização da tecnologia blockchain na dis
