@@ -8,4 +8,4 @@ PMDF
 
 ## Problema
 
-Controle das fi
+Controle das fichas pe
