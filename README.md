@@ -8,4 +8,4 @@ PMDF
 
 ## Problema
 
-Controle das fichas pessoais e criminais de todos o
+Controle das fichas pessoais e criminais de todos os cidadão
