@@ -12,4 +12,4 @@ Controle das fichas pessoais e criminais de todos os cidadãos.
 
 ## Soluções já utilizadas
 
-Cada órgão de segurança pública, ass
+Cada órgão de segurança pública, assim com
