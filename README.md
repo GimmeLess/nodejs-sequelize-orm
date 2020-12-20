@@ -12,4 +12,4 @@ Controle das fichas pessoais e criminais de todos os cidadãos.
 
 ## Soluções já utilizadas
 
-Cada órgão de segurança pública, assim como várias unidades dentro da própria PMDF possuem dados diferentes das pessoas. Alguns possuem foto, outros possuem o endereço des
+Cada órgão de segurança pública, assim como várias unidades dentro da própria PMDF possuem dados diferentes das pessoas. Alguns possuem foto, outros possuem o endereço desatualizad
