@@ -14,4 +14,4 @@ Controle das fichas pessoais e criminais de todos os cidadãos.
 
 Cada órgão de segurança pública, assim como várias unidades dentro da própria PMDF possuem dados diferentes das pessoas. Alguns possuem foto, outros possuem o endereço desatualizado, outros possuem RG, assim como os dados criminais também podem não ser compartilhados entre os estados do Brasil.
 
-Devido a esse problema, o Ministério da Justiça, criou o sistema Infoseg, com a proposta de integrar os dados de várias bases de dados, como: Receita Federal, D
+Devido a esse problema, o Ministério da Justiça, criou o sistema Infoseg, com a proposta de integrar os dados de várias bases de dados, como: Receita Federal, Detran’s,
