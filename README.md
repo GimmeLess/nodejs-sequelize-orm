@@ -18,4 +18,4 @@ Devido a esse problema, o Ministério da Justiça, criou o sistema Infoseg, com 
 
 Como resultado, frequentemente o sistema fica indisponível para algumas funcionalidades, algumas funções deixam de funcionar por falta de atualização do convênio e alguns dados continuam desatualizados porque não são confrontados entre as diferentes bases de dados.
 
-Além de todas essas características, existe o risco de
+Além de todas essas características, existe o risco de dados p
