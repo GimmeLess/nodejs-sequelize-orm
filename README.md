@@ -22,4 +22,4 @@ Além de todas essas características, existe o risco de dados pessoais e crimin
 
 ## Por que usar o blockchain?
 
-Devido
+Devido ao b
