@@ -22,4 +22,4 @@ Além de todas essas características, existe o risco de dados pessoais e crimin
 
 ## Por que usar o blockchain?
 
-Devido ao blockchain ser imutável, irrefutável e auditável, es
+Devido ao blockchain ser imutável, irrefutável e auditável, essa te
