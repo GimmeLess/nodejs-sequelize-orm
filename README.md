@@ -22,4 +22,4 @@ Além de todas essas características, existe o risco de dados pessoais e crimin
 
 ## Por que usar o blockchain?
 
-Devido ao blockchain ser imutável, irrefutável e auditável, essa tecnologia será muito muito útil para o desenvolvimento desse controle de ficha pessoal e criminal, pois os dados serão sempre atualizados e os dados anteriores não serão perdido
+Devido ao blockchain ser imutável, irrefutável e auditável, essa tecnologia será muito muito útil para o desenvolvimento desse controle de ficha pessoal e criminal, pois os dados serão sempre atualizados e os dados anteriores não serão perdidos, o s
