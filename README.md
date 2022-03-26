@@ -24,4 +24,7 @@ Além de todas essas características, existe o risco de dados pessoais e crimin
 
 Devido ao blockchain ser imutável, irrefutável e auditável, essa tecnologia será muito muito útil para o desenvolvimento desse controle de ficha pessoal e criminal, pois os dados serão sempre atualizados e os dados anteriores não serão perdidos, o sistema estará sempre disponível, pois existirão vários nós na rede.
 
-Apesar de ser uma rede privada, será uma rede muito grande, pois todos os policiais de todos os estados podem ter acesso a esses dados e os dados de instituições diferentes seriam compartilhados em uma base única, além de que não teria o problema de dados sumirem devido a validação que é feita por todos os nós da rede e rastreado para identificar quem os modificou
+Apesar de ser uma rede privada, será uma rede muito grande, pois todos os policiais de todos os estados podem ter acesso a esses dados e os dados de instituições diferentes seriam compartilhados em uma base única, além de que não teria o problema de dados sumirem devido a validação que é feita por todos os nós da rede e rastreado para identificar quem os modificou.
+
+
+# Propost
