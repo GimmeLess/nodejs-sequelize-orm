@@ -30,3 +30,5 @@ Apesar de ser uma rede privada, será uma rede muito grande, pois todos os polic
 # Proposta de solução do problema
 
 Controle de ficha pessoal e criminal usando blockchain
+
+Configure
