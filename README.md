@@ -31,4 +31,4 @@ Apesar de ser uma rede privada, será uma rede muito grande, pois todos os polic
 
 Controle de ficha pessoal e criminal usando blockchain
 
-Configure seu blockchai
+Configure seu blockchain usa
