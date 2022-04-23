@@ -33,4 +33,4 @@ Controle de ficha pessoal e criminal usando blockchain
 
 Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Vagrant](https://www.vagrantup.com/)
 
-* Clone o repo
+* Clone o repositório
