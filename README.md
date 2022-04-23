@@ -31,4 +31,4 @@ Apesar de ser uma rede privada, será uma rede muito grande, pois todos os polic
 
 Controle de ficha pessoal e criminal usando blockchain
 
-Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Vagrant](https://www.vag
+Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Vagrant](https://www.vagrantup.com/)
