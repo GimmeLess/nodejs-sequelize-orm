@@ -35,4 +35,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 
 * Clone o repositório usando os comandos abaixo:
 
-        $ git clone https://github.com/unb-ppca-constr
+        $ git clone https://github.com/unb-ppca-construcao-de-so
