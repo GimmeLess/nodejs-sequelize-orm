@@ -38,4 +38,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
         $ git clone https://github.com/unb-ppca-construcao-de-software-2017/fichaPessoal.git
         $ cd fichaPessoal
 
-* Acesse a pas
+* Acesse a pasta s
