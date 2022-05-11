@@ -42,4 +42,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 
         $ cd servidor
         $ vagrant up
-  
+        $
