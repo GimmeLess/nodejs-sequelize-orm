@@ -44,4 +44,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
         $ vagrant up
         $ vagrant ssh
 
-* Acesse a pasta cliente em outro termina
+* Acesse a pasta cliente em outro terminal crie
