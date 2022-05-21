@@ -47,4 +47,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 * Acesse a pasta cliente em outro terminal crie a máquina virtual do cliente e acesse usando os comandos abaixo:
 
         $ cd cliente
-      
+        $ v
