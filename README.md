@@ -50,4 +50,5 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
         $ vagrant up
         $ vagrant ssh
 
-* Dentro da VM do servidor, crie o blockch
+* Dentro da VM do servidor, crie o blockchain:
+
