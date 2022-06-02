@@ -56,4 +56,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 
 * Dentro da VM do servidor inicialize o blockchain:
 
-       
+        $ multich
