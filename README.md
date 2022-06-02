@@ -55,3 +55,5 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
         $ multichain-util create fichaPessoal
 
 * Dentro da VM do servidor inicialize o blockchain:
+
+       
