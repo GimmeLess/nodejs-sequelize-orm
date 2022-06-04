@@ -58,4 +58,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 
         $ multichaind fichaPessoal -daemon
 
-* Dentro da VM do cliente acesse 
+* Dentro da VM do cliente acesse o blockchain do s
