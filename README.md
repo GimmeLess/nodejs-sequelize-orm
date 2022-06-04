@@ -58,4 +58,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 
         $ multichaind fichaPessoal -daemon
 
-* Dent
+* Dentro da 
