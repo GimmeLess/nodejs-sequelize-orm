@@ -62,4 +62,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 
         $ multichaind fichaPessoal@10.4.4.4:4401 -daemon
 
-* Dentro da VM do servidor, adicione as permissões de 
+* Dentro da VM do servidor, adicione as permissões de conex
