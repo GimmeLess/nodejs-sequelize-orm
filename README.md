@@ -64,4 +64,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 
 * Dentro da VM do servidor, adicione as permissões de conexão:
 
-        $ multichain-cli fichaPessoal g
+        $ multichain-cli fichaPessoal grant <CH
