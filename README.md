@@ -66,4 +66,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 
         $ multichain-cli fichaPessoal grant <CHAVE_DO_CLIENTE> connect,send,receive
         
-     
+        Exe
