@@ -66,4 +66,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 
         $ multichain-cli fichaPessoal grant <CHAVE_DO_CLIENTE> connect,send,receive
         
-        Exemplo de comando com a chave do cliente: permissao-ficha 1F6km6qxta5p5gqtFF3XMC
+        Exemplo de comando com a chave do cliente: permissao-ficha 1F6km6qxta5p5gqtFF3XMCspKT1cCs
