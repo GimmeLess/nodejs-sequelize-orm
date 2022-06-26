@@ -68,4 +68,5 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
         
         Exemplo de comando com a chave do cliente: permissao-ficha 1F6km6qxta5p5gqtFF3XMCspKT1cCsDDeCADuS
 
-* Dentro do servidor do cliente, tente conectar novam
+* Dentro do servidor do cliente, tente conectar novamente:
+
