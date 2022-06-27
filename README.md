@@ -70,4 +70,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 
 * Dentro do servidor do cliente, tente conectar novamente:
 
-        $ multicha
+        $ multichaind fic
