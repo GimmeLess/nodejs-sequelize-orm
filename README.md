@@ -70,4 +70,5 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 
 * Dentro do servidor do cliente, tente conectar novamente:
 
-        $ multichaind fichaPessoal@10.4.4.4:4401 -da
+        $ multichaind fichaPessoal@10.4.4.4:4401 -daemon
+
