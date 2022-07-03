@@ -72,4 +72,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 
         $ multichaind fichaPessoal@10.4.4.4:4401 -daemon
 
-* Acesse o modo interativo do blockchain fichaPes
+* Acesse o modo interativo do blockchain fichaPessoal:
