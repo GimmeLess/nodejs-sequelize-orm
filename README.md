@@ -75,4 +75,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 * Acesse o modo interativo do blockchain fichaPessoal:
 
         $ multichain-cli fichaPessoal
-      
+        fichaPes
