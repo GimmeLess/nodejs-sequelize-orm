@@ -76,3 +76,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 
         $ multichain-cli fichaPessoal
         fichaPessoal: getinfo
+     
