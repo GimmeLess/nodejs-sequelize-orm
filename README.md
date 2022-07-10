@@ -77,4 +77,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
         $ multichain-cli fichaPessoal
         fichaPessoal: getinfo
         {
-            "version" : "1.0 alph
+            "version" : "1.0 alpha 16"
