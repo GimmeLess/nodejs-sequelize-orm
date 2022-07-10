@@ -78,4 +78,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
         fichaPessoal: getinfo
         {
             "version" : "1.0 alpha 16",
-            "p
+            "protocolve
