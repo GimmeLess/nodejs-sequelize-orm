@@ -79,4 +79,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
         {
             "version" : "1.0 alpha 16",
             "protocolversion" : 10003,
-   
+           
