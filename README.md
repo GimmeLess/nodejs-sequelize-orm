@@ -81,4 +81,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "protocolversion" : 10003,
             "chainname" : "fichaPessoal",
             "description" : "MultiChain fichaPessoal",
-            "protocol" : "multicha
+            "protocol" : "multichain",
