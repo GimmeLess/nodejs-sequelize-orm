@@ -83,4 +83,5 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "description" : "MultiChain fichaPessoal",
             "protocol" : "multichain",
             "port" : 4401,
-            "setupblocks" : 60
+            "setupblocks" : 60,
+ 
