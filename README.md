@@ -85,4 +85,5 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "port" : 4401,
             "setupblocks" : 60,
             "nodeaddress" : "fichaPessoal@192.1.2.46:4401",
-            "burnaddress" : "1XXXXXXWsXXXXXXXRXXXXXXXZxXXXXXXa
+            "burnaddress" : "1XXXXXXWsXXXXXXXRXXXXXXXZxXXXXXXat6JD4",
+  
