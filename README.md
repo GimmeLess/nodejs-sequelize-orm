@@ -87,4 +87,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "nodeaddress" : "fichaPessoal@192.1.2.46:4401",
             "burnaddress" : "1XXXXXXWsXXXXXXXRXXXXXXXZxXXXXXXat6JD4",
             "walletversion" : 60000,
-            
+            "balan
