@@ -88,4 +88,5 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "burnaddress" : "1XXXXXXWsXXXXXXXRXXXXXXXZxXXXXXXat6JD4",
             "walletversion" : 60000,
             "balance" : 0.00000000,
-            "blocks" : 
+            "blocks" : 55,
+      
