@@ -89,4 +89,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "walletversion" : 60000,
             "balance" : 0.00000000,
             "blocks" : 55,
-      
+            "ti
