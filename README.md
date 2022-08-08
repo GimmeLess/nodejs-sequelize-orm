@@ -90,4 +90,5 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "balance" : 0.00000000,
             "blocks" : 55,
             "timeoffset" : 0,
-            "connections" :
+            "connections" : 2,
+     
