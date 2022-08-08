@@ -91,4 +91,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "blocks" : 55,
             "timeoffset" : 0,
             "connections" : 2,
-           
+            "proxy
