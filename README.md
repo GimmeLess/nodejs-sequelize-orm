@@ -92,4 +92,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "timeoffset" : 0,
             "connections" : 2,
             "proxy" : "",
-            "difficulty" : 0.000
+            "difficulty" : 0.000015
