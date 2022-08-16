@@ -94,4 +94,5 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "proxy" : "",
             "difficulty" : 0.00001526,
             "testnet" : false,
-            "keypoololdest" : 14570
+            "keypoololdest" : 1457004398,
+    
