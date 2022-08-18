@@ -95,4 +95,5 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "difficulty" : 0.00001526,
             "testnet" : false,
             "keypoololdest" : 1457004398,
-            "keypoolsize"
+            "keypoolsize" : 2,
+    
