@@ -96,4 +96,5 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "testnet" : false,
             "keypoololdest" : 1457004398,
             "keypoolsize" : 2,
-            "paytxfee" : 0.00000000
+            "paytxfee" : 0.00000000,
+   
