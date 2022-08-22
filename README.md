@@ -97,4 +97,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "keypoololdest" : 1457004398,
             "keypoolsize" : 2,
             "paytxfee" : 0.00000000,
-            "relayfee"
+            "relayfee" : 0.000
