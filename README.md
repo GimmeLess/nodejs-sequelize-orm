@@ -99,4 +99,5 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "paytxfee" : 0.00000000,
             "relayfee" : 0.00000000,
             "errors" : ""
- 
+        }
+# 
