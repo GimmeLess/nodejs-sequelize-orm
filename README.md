@@ -100,4 +100,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "relayfee" : 0.00000000,
             "errors" : ""
         }
-# Criando e recuperando 
+# Criando e recuperando os dados
