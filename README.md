@@ -101,3 +101,5 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
             "errors" : ""
         }
 # Criando e recuperando os dados no blockchain
+
+Obs.: 
