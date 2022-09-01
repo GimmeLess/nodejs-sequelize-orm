@@ -102,4 +102,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
         }
 # Criando e recuperando os dados no blockchain
 
-Obs.: Todos os valores informad
+Obs.: Todos os valores informados são e
