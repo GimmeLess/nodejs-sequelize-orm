@@ -104,4 +104,4 @@ Configure seu blockchain usando [Multichain](http://www.multichain.com/) com [Va
 
 Obs.: Todos os valores informados são em hexadecimal, exceto a chave da ficha, que nesse exemplo é o CPF, nossa chave de recuperação dos dados.
 
-CPF de exemplo:
+CPF de exemplo: 123456789-10
