@@ -108,4 +108,4 @@ CPF de exemplo: 123456789-10
 
 * Cria um registro para o cpf informado:
 
-        $ create stream 1234567891
+        $ create stream 12345678910 tru
