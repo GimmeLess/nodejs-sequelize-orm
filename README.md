@@ -110,4 +110,4 @@ CPF de exemplo: 123456789-10
 
         $ create stream 12345678910 true
         
-* Atribui um valor para 
+* Atribui um valor para o campo no
