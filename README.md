@@ -110,4 +110,5 @@ CPF de exemplo: 123456789-10
 
         $ create stream 12345678910 true
         
-* Atribui um valor para o campo nome da ficha com o cpf infor
+* Atribui um valor para o campo nome da ficha com o cpf informado:
+  
