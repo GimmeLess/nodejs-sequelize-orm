@@ -112,4 +112,4 @@ CPF de exemplo: 123456789-10
         
 * Atribui um valor para o campo nome da ficha com o cpf informado:
         
-        $ publish 12345678910 nome 41
+        $ publish 12345678910 nome 416e646572
