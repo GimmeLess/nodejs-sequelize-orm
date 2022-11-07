@@ -114,4 +114,4 @@ CPF de exemplo: 123456789-10
         
         $ publish 12345678910 nome 416e646572736f6e204a6566666572736f6e20436572717565697261
              
-* Lista todos os registros de todas as pessoas que 
+* Lista todos os registros de todas as pessoas que consta
