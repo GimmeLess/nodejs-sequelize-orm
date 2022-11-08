@@ -117,4 +117,5 @@ CPF de exemplo: 123456789-10
 * Lista todos os registros de todas as pessoas que constam no blockchain:
         
         $ liststreams
-        $ subscribe 123456789
+        $ subscribe 12345678910
+     
