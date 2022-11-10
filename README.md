@@ -119,4 +119,4 @@ CPF de exemplo: 123456789-10
         $ liststreams
         $ subscribe 12345678910
         
-* Lista
+* Lista tod
