@@ -121,4 +121,4 @@ CPF de exemplo: 123456789-10
         
 * Lista todos os itens do cpf informado:
         
-        $ lis
+        $ liststre
