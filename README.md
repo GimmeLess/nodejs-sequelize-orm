@@ -123,4 +123,4 @@ CPF de exemplo: 123456789-10
         
         $ liststreamitems 12345678910
         
-* Cria 
+* Cria um campo en
