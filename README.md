@@ -123,4 +123,5 @@ CPF de exemplo: 123456789-10
         
         $ liststreamitems 12345678910
         
-* Cria um campo endereço com um valor para o cpf informad
+* Cria um campo endereço com um valor para o cpf informado:
+      
