@@ -126,4 +126,5 @@ CPF de exemplo: 123456789-10
 * Cria um campo endereço com um valor para o cpf informado:
         
         $ publish 12345678910 endereco 505043412d554e42
-        $ subscribe 1234567
+        $ subscribe 12345678910
+   
