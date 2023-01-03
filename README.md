@@ -128,4 +128,5 @@ CPF de exemplo: 123456789-10
         $ publish 12345678910 endereco 505043412d554e42
         $ subscribe 12345678910
         
-* Lista o campo nome do cpf informa
+* Lista o campo nome do cpf informado:
+     
