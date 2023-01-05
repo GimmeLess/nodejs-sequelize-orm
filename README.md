@@ -130,4 +130,4 @@ CPF de exemplo: 123456789-10
         
 * Lista o campo nome do cpf informado:
         
-        $ liststreamkeyitems 1234567
+        $ liststreamkeyitems 12345678910 no
