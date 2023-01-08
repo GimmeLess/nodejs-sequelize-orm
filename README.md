@@ -132,4 +132,4 @@ CPF de exemplo: 123456789-10
         
         $ liststreamkeyitems 12345678910 nome
         
-* Conceda as 
+* Conceda as permis
