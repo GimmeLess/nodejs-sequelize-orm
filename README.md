@@ -139,4 +139,5 @@ CPF de exemplo: 123456789-10
 
 Acesse na VM do cliente:
 
-	$ liststreamitems 1234567891
+	$ liststreamitems 12345678910
+
