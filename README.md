@@ -141,4 +141,4 @@ Acesse na VM do cliente:
 
 	$ liststreamitems 12345678910
 
-## Conclusão do MVP (
+## Conclusão do MVP (Minimum Vi
