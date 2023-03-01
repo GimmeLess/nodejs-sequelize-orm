@@ -141,4 +141,6 @@ Acesse na VM do cliente:
 
 	$ liststreamitems 12345678910
 
-## Conclusão do MVP (Minimum Viable Produc
+## Conclusão do MVP (Minimum Viable Product)
+
+* P
