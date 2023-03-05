@@ -143,4 +143,4 @@ Acesse na VM do cliente:
 
 ## Conclusão do MVP (Minimum Viable Product)
 
-* Pode-se ver
+* Pode-se verificar que 
