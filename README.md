@@ -143,4 +143,4 @@ Acesse na VM do cliente:
 
 ## Conclusão do MVP (Minimum Viable Product)
 
-* Pode-se verificar que com o uso de blockchain, nesse exemplo utilizando a biblioteca multichain, será viável c
+* Pode-se verificar que com o uso de blockchain, nesse exemplo utilizando a biblioteca multichain, será viável criar
