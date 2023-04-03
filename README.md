@@ -143,4 +143,4 @@ Acesse na VM do cliente:
 
 ## Conclusão do MVP (Minimum Viable Product)
 
-* Pode-se verificar que com o uso de blockchain, nesse exemplo utilizando a biblioteca multichain, será viável criar um controle de ficha pessoal que pode ser utilizado a princípio dentro da PMDF e futuramente ser disseminado para os outros órgãos de segurança púb
+* Pode-se verificar que com o uso de blockchain, nesse exemplo utilizando a biblioteca multichain, será viável criar um controle de ficha pessoal que pode ser utilizado a princípio dentro da PMDF e futuramente ser disseminado para os outros órgãos de segurança pública, t
