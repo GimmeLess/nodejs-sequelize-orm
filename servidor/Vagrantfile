@@ -18,3 +18,9 @@ Vagrant.configure(2) do |config|
     vb.customize ["modifyvm", :id, "--natdnsproxy1", "off"]
     vb.name = "servidor"
   end
+
+  config.vm.provision "shell", :inline => "wget http://www.multichain.com/download/multichain-1.0-beta-2.tar.gz"
+  config.vm.provision "shell", :inline => "tar -xvzf multichain-1.0-beta-2.tar.gz"
+  config.vm.provision "shell", :inline => "cd multichain-1.0-beta-2 && mv multichaind multichain-cli multichain-util /usr/local/bin"
+  config.vm.provision "shell", :inline => "multichain-util create fichaPessoal"
+end
